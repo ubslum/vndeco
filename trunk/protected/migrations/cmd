@@ -1,0 +1,5 @@
+d:
+cd "D:\Development\Working Copies\Harry\tramtuoi.com\public_html\protected"
+yiic migrate
+
+alter_table_request

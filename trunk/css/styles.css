@@ -1,0 +1,20 @@
+/* container */
+.content {padding: 5px 20px 5px 20px;}
+
+/* sidebar */
+.sidebar-left {padding: 20px 0px 20px 20px;}
+.sidebar-right {padding: 20px 20px 20px 0;}
+.operations li.active a {background: #6FB8E2;}
+
+/* buttons */
+.glare-button {text-decoration: none; display: inline-block; color: #FFFFFF; background-color: #373738; padding: 5px 15px; margin: 5px 0; border: 0; border-radius: 15px; moz-border-radius: 15px;}
+.glare-button:hover {cursor: pointer; background-color: #4d4c4c; color: #ffffff; text-decoration: none;}
+.fuzzy-button {text-decoration: none; display: inline-block; color: #000000; background-color: #e7e7e7; padding: 5px 15px; margin: 5px 0; border: 0; border-radius: 15px; moz-border-radius: 15px;}
+.fuzzy-button:hover {cursor: pointer; background-color: #dcdcdc; color: #000000; text-decoration: none;}
+/* border box */
+.border-box {background-color: #f9f9f9; border: 8px solid #ebf0f3; border-radius: 5px; moz-border-radius: 5px; padding: 10px 10px; margin: 15px 0;}
+
+/* Footer Menu */
+#footer ul {list-style: none;}
+#footer ul li {display: inline; margin: 0 5px 0 5px;}
+#footer ul li a {text-decoration: none;}

@@ -1,0 +1,15 @@
+- add sidebar in column2right, column2left, chinh lai css cho sidebar
+- Fix add new lang (change Model Lang)
+- Change Yii::t() MessageCategory to __DIR__,__CLASS__, modify function generateMessageCategory in Core.php
+- Remove noindex, nofollow in view site/page
+- re-edit site/contact, user active form and ajax/client validation
+- ajax validation in widget and site/contact
+- move /* Unactivate User */ from function init() to protected function beforeAction in MyController.php
+- set testLimit=0 in MyCaptchaAction, change all forms in account module to ajax validation
+- update admin/rbac/action/update action, only save data if isset($_POST['data'])
+- update Footer Menu
+- update WLeftCol, WRightCol, layout left, right, 3
+- update buttons css
+- update main layout: add openGraphProtocol and robots
+- add LangSystem
+- add theme system

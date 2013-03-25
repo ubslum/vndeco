@@ -1,0 +1,9 @@
+.icon-tooltip {cursor: pointer; padding-left: 3px;}
+div.form .tooltip
+{
+    display: none;
+    background-color:#EFFDFF;
+    border:1px solid #79B4DC;
+    padding: 10px;
+    max-width: 240px;
+}

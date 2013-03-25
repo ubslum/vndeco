@@ -1,0 +1,8 @@
+.handle{
+    cursor: move;
+    background-color:#85bad8 !important;
+}
+
+.editable{
+    background-color: orange;
+}
